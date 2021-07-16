@@ -33,7 +33,7 @@ let s:INVALID_COMMAND = -1
 let s:DIRECTORY_SEPARATOR = '[/\\]'
 let s:VIM_COMMAND_PATTERN = '^:.\+'
 
-let s:has_teriminal = has("terminal")
+let s:has_teriminal = has("nvim")
 " }}}
 " Global variables {{{
 " Name and extension
