@@ -1,7 +1,7 @@
 # :sunrise_over_mountains: vim-executioner
 
 This plugin allows you to execute files in a terminal window or a separate
-buffer.
+buffer. (Forked to work with Neovim).
 
 ![](https://raw.githubusercontent.com/wiki/EvanQuan/vim-executioner/executioner.PNG)
 
